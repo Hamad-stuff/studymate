@@ -179,24 +179,21 @@ npx expo start
 
 Scan the QR code with Expo Go on Android or iOS.
 
-AI Usage
+## AI Usage
 
-This application was developed with AI assistance (Claude). The AI was used for:
+This application was developed with AI assistance using Claude and ChatGPT.
 
-Code generation for components, screens, and utilities
-Debugging layout and logic issues
-Explaining React and JavaScript concepts
-Generating consistent styling across components
+AI was used for:
+- Code generation and refinement for components, screens, and utilities
+- Debugging layout, logic, and development-environment issues
+- Understanding React Native and JavaScript concepts
+- Understanding components, props, state, events, conditional rendering, and data-driven UI
+- Reviewing application requirements and testing important application states
+- Improving documentation and preparing for the viva
 
-All generated code was reviewed, tested, and understood before submission.
-The architecture decisions, feature selection, data models, and design
-choices were made by the student based on the assignment requirements.
-
-Known Limitations
-Data is not persisted between app restarts (no AsyncStorage)
-DatePickerField scroll columns do not auto-scroll to selected value
-The gap style property requires React Native 0.71+ / Expo SDK 49+
-No assignment editing (only add/delete/toggle) — satisfies requirements
+All generated code was reviewed, tested, adapted, and understood before submission.
+The architecture decisions, feature selection, data models, and design choices were
+made by the student based on the assignment requirements.
 text
 
 ---
