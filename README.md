@@ -65,7 +65,7 @@ smart mobile application.
 
 - **React Native** — Mobile UI framework
 - **JavaScript (ES6+)** — Application logic
-- **Expo SDK 51** — Development and build platform
+- **Expo SDK 57** — Development and build platform
 - **react-native-chart-kit** — Bar chart and Pie chart
 - **react-native-svg** — SVG rendering for charts
 
